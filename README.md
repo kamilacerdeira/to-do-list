@@ -12,9 +12,7 @@ Features da aplicação:
 
 Aplicação ao final do desafio: 
 
-<video width="320" height="240" autoplay>
-  <source src="./src/images/challenge-toDo.mp4" type="video/mp4">
-</video>
+
 
 ### Autora
 ---
